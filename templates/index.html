@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="" />
+        <title>Chatbot Interface</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+            rel="stylesheet"
+        />
+    </head>
+    <body class="bg-gray-100 font-sans">
+        <div class="container mx-auto p-4">
+            <h1 class="text-3xl font-bold mb-10">Chatbot Interface</h1>
+
+            <form action="/ask" method="post" class="grid grid-cols-10 gap-4">
+                <label for="user_question" class="text-xl text-right"
+                    >Ask a question:</label
+                >
+                <input
+                    type="text"
+                    id="user_question"
+                    name="user_question"
+                    required
+                    class="col-span-4 px-4 py-2 rounded-lg border focus:outline-none focus:border-blue-400"
+                />
+                <button
+                    class="col-span-2 px-4 py-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 focus:outline-none"
+                    type="submit"
+                >
+                    Submit
+                </button>
+            </form>
+
+            <div class="grid grid-row-10 gap-4">
+                <h2 class="text-2xl font-semibold mt-8">Chatbot Response:</h2>
+                <p
+                    class="bg-white row-span-6 p-4 rounded-lg shadow-md mt-1 w-2/3"
+                >
+                    {{ answer }}
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

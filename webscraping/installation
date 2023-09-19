@@ -4,3 +4,4 @@ pip3 install requests
 pip3 install scikit-learn
 pip3 install torch torchvision torchaudio
 pip3 install sentence-transformers
+pip3 install flask

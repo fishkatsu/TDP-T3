@@ -77,6 +77,14 @@ def chatbot_function(user_query, faq_data):
                 selected_answer = next(faq["Answer"] for faq in faq_data if faq["Question"] == close_scores[0]["Question"])
                 answer_displayed = True
                 return selected_answer, []
+            
+           # Check if the user query is totally out of scope
+        top_score = 0  # Initialize top_score
+        if similarity_scores:
+            top_score = max(similarity_scores, key=lambda x: x["Similarity Score"])["Similarity Score"]
+        
+        if top_score < 0.5:
+            return "Sorry, I don't understand your question. Please try again.", []
 
         # Check if suggestions should be displayed
         if not answer_displayed:

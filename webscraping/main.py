@@ -6,6 +6,8 @@ import csv
 # Load a pre-trained Sentence-BERT model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
+# Maintain a list to store the history of user queries and corresponding responses
+conversation_history = []
 
 # Modify the chatbot_function to handle suggestions when scores are close
 def chatbot_function(user_query, faq_data):
@@ -67,7 +69,7 @@ def chatbot_function(user_query, faq_data):
         answer_displayed = False
 
         # Check if there is at least one high similarity score above the threshold
-        top_score = top_three_questions[0]["Similarity Score"]
+        top_score = top_three_questions[0]["Similarity Score"] if sorted_similarity_scores else 0
         if top_score >= threshold and not answer_displayed:
             # Filter questions with scores close to the top score
             close_scores = [faq for faq in top_three_questions if top_score - faq["Similarity Score"] <= 0.2]
@@ -77,23 +79,31 @@ def chatbot_function(user_query, faq_data):
                 selected_answer = next(faq["Answer"] for faq in faq_data if faq["Question"] == close_scores[0]["Question"])
                 answer_displayed = True
                 return selected_answer, []
-            
-           # Check if the user query is totally out of scope
-        top_score = 0  # Initialize top_score
-        if similarity_scores:
-            top_score = max(similarity_scores, key=lambda x: x["Similarity Score"])["Similarity Score"]
-        
+
+
+         # Check if the user query is totally out of scope
         if top_score < 0.5:
             return "Sorry, I don't understand your question. Please try again.", []
 
         # Check if suggestions should be displayed
         if not answer_displayed:
-            # If an answer hasn't been displayed, return suggestions
+            # Return the top three questions as suggestions
             suggestions = [faq["Question"] for faq in top_three_questions]
+            # Store user query and suggestions in conversation history
+            conversation_history.append({"User Query": user_query, "Response": suggestions})
             return None, suggestions
         else:
             # If an answer has been displayed, return an empty suggestion list
             return None, []
-
+            
     else:
         return "Failed to retrieve the web page. Status code:", response.status_code
+
+        
+# Function to display the conversation history
+def display_conversation_history():
+    print("Conversation History:")
+    for i, interaction in enumerate(conversation_history, 1):
+        print(f"{i}. User: {interaction['User Query']}")
+        print(f"   Response: {interaction['Response']}")
+    print("\n")

@@ -9,6 +9,8 @@ app = Flask(__name__)
 url = "https://www.swinburneonline.edu.au/faqs/"
 response = requests.get(url)
 faq_data = []
+# Initialize a list to store the conversation history
+conversation_history = []
 
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, "html.parser")
@@ -39,28 +41,32 @@ def home():
 @app.route('/ask', methods=['POST'])
 def ask():
     # Get the user's question from the form
-    user_question = request.form.get('user_question')
-
-    # Check if user selected a suggestion
+    user_question = request.form.get('user_question', '')
+    
+    # If the user has selected a suggestion, use it as the user_question
     selected_suggestion = request.form.get('selected_suggestion')
-
     if selected_suggestion:
-        # User selected a suggestion, find the corresponding answer
-        selected_answer = next(faq["Answer"] for faq in faq_data if faq["Question"] == selected_suggestion)
-        return render_template('index.html', answer=selected_answer, suggestions=None)
-
-    # If no suggestion is selected, pass the question and FAQ data to the chatbot function
+        user_question = selected_suggestion
+    
+    # Call chatbot_function to get a response and suggestions
     response, suggestions = chatbot_function(user_question, faq_data)
-
-    if suggestions:
-        # Define the default message if suggestions are available
-        default_message = "Here are some suggestions for you."
-    else:
-        # If no suggestions, set the default message to an empty string
-        default_message = ""
-
-    # Render the homepage template with the default message, response, and suggestions
-    return render_template('index.html', answer=default_message if default_message else response, suggestions=suggestions)
+    
+    # If a suggestion was selected, find the corresponding answer
+    if selected_suggestion:
+        response = next(faq["Answer"] for faq in faq_data if faq["Question"] == selected_suggestion)
+        suggestions = None  # No need to display suggestions if one is selected
+    
+    # Update conversation history
+    conversation_history.append({"User Query": user_question, "Response": response or suggestions})
+    
+    # Render the template with all necessary variables
+    return render_template(
+        'index.html', 
+        conversation_history=conversation_history,
+        answer=response or "Here are some suggestions for you.", 
+        suggestions=suggestions, 
+        user_question=user_question
+    )
 
 # Run the app
 if __name__ == '__main__':

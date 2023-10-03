@@ -1,504 +1,251 @@
 Question,Similarity Score
-<<<<<<< HEAD
-What are the top 5 good customer service skills?,0.14393725991249084
-How to demonstrate customer service skills?,0.10972373187541962
-How to describe customer service skills?,0.13808971643447876
-What are customer service skills?,0.12023139744997025
-How can I transition out of a customer service job?,0.11950408667325974
-What are transferable skills in customer service?,0.15966084599494934
-What can you do after working in customer service?,0.18390969932079315
-How do I pivot into business from customer service?,0.15166614949703217
-What should I do after customer service?,0.07638423144817352
-What is the career path for customer service agents?,0.22226938605308533
-What is the most likely career for a customer support professional?,0.2290067970752716
-What is the most common mistake when choosing a career?,0.24164840579032898
-What to do if you are confused about your career?,0.22803077101707458
-Why am I struggling to choose a career?,0.15403500199317932
-Is it normal to not know what career you want?,0.18422715365886688
-How to find your dream job?,0.20838171243667603
-How do you figure out what you want to do as a career?,0.26936715841293335
-What is the difference between a financial planner and a financial advisor?,0.24060888588428497
-What qualifications do financial advisors need?,0.28432321548461914
-How long does an MBA take in Australia?,0.6229521632194519
-Who should do an MBA?,0.7466137409210205
-Do you need a degree to do an MBA?,0.6560457944869995
-Why study an MBA?,0.7358639240264893
-What does an MBA teach?,0.7646154165267944
-How long does it take to finish a part-time MBA?,0.49694836139678955
-What is a weekend MBA?,0.6759129762649536
-How long is a full-time MBA?,0.6154288053512573
-How many hours a week is an MBA?,0.6238439083099365
-Can you study an MBA part-time?,0.5984883904457092
-Can you complete an MBA while working full time?,0.5803941488265991
-Is it easy to get a scholarship for Masters in Australia?,0.32854151725769043
-How do I get full funding for a Masters in Australia?,0.3078615665435791
-Do I have to pay for Masters in Australia?,0.33025550842285156
-How do I pay for postgraduate study in Australia?,0.29213380813598633
-How many degrees can you put on HECS?,0.13337481021881104
-Is Higher Education Loan Program (HELP) the same as HECS?,0.26867151260375977
-Can you get a student loan for a masters in Australia?,0.38087713718414307
-Is postgraduate study covered by HECS?,0.3902384638786316
-How do you become a CEO of a company?,0.3066883385181427
-How do you become a CEO in Australia?,0.34234893321990967
-What skills do you need to become a CEO?,0.2693699598312378
-What qualifications do most CEOs have?,0.31702667474746704
-What qualifies you as a CEO?,0.3217598795890808
-What is the best degree for a financial advisor?,0.40611588954925537
-What is the job of a financial advisor?,0.3361080288887024
-What are the duties of a financial advisor?,0.2733490467071533
-What kind of person can be a financial advisor?,0.2917518615722656
-Is it stressful to be a financial advisor?,0.20969811081886292
-Is it hard being a financial advisor?,0.22071893513202667
-How long does it take to make it as a financial advisor?,0.23833179473876953
-How do I start being a financial advisor?,0.24185490608215332
-What qualifications do I need to be a financial advisor in Australia?,0.2740491032600403
-What is the main difference between a financial planner and a financial advisor in Australia?,0.26279380917549133
-What is the main difference between a financial planner and a financial advisor?,0.24542899429798126
-"Which is better, a financial planner or advisor?",0.307569295167923
-What are the three major skills needed to run a business?,0.23177427053451538
-What should I study for small business?,0.3933209776878357
-What degree is best for starting a business?,0.3830310106277466
-What degree is best for starting a business?,0.3830310106277466
-What is the most versatile business degree?,0.4837315082550049
-Which business degree is best in Australia?,0.48114827275276184
-What is the best type of business to major in?,0.4487977623939514
-What are the four advantages of studying business environment?,0.390001118183136
-What are the benefits of doing business?,0.26312723755836487
-How can studying business be beneficial for your future?,0.4213447868824005
-Why study business courses in Australia?,0.45692312717437744
-Do people with business degrees get jobs?,0.35468190908432007
-What career outcomes can you get with a business degree?,0.41590002179145813
-What job can you get with a business degree in Australia?,0.4332070052623749
-What pays the most with a business degree?,0.40985044836997986
-What will I learn in a business management degree?,0.4976111054420471
-What is the definition of a business management degree?,0.5210655927658081
-What are examples of business management?,0.466148316860199
-What is the meaning of business management?,0.497946560382843
-What are the main topics in business administration?,0.4224732220172882
-What is the meaning of a degree in business administration?,0.477443128824234
-What is an example of business administration?,0.44776028394699097
-What does a Business Administrator do?,0.37456822395324707
-What is the difference between management and administration?,0.34407463669776917
-What is the difference between business administration and business management?,0.40300649404525757
-What support can I expect?,0.06378480792045593
-Is an MBA too advanced for someone who has never studied?,0.5606565475463867
-"As I am studying online, can I pursue full-time opportunities throughout my studies?",0.2731461524963379
-Do these degrees provide any networking opportunities?,0.3164982795715332
-How will Swinburne prepare me for future job opportunities?,0.26511022448539734
-"With an MBA, does the institution matter?",0.662254810333252
-As a business leader/owner what value can an MBA add that I do not gain in my current vocation?,0.5423847436904907
-What job opportunities require an MBA?,0.6958307027816772
-What is the likelihood of employment with an MBA?,0.6607124209403992
-Is there a pay increase between undergraduate and MBA students?,0.5409790277481079
-Why should I choose Swinburne over different providers?,0.03460227698087692
-What quantitative value can I hope for in taking on an MBA?,0.581881582736969
-Is STARS paid?,0.09688973426818848
-Are STARS placements extra placements or part of my course?,0.22928354144096375
-Can I complete my two STARS placements in the school that I am doing Permission To Teach (PTT) work? The school fits the low-socioeconomic criteria and have said they would be happy for me do my STARS placements there.,0.16557684540748596
-"When Swinburne matches the student to the placement school, what is the criteria for travel expectations, will Swinburne match me to somewhere within a reasonable distance from my home or could it be anywhere in regional/rural Victoria?",0.18537357449531555
-When do the STARS Canvas modules open? Would I be able to have access to them at the start of the teaching period as I'd like to work on the STARS module before placement?,0.14859172701835632
-What will I receive at completion of this program?,0.25637853145599365
-Will there be any financial support for travel or accommodation to undertake a placement in regional or remote Victoria?,0.14438728988170624
-"I have secured a placement in a school setting that is not a regional, remote or low socioeconomic school. If I am successful in my application will you help me change to a STARS-approved school setting?",0.17079147696495056
-I am a Master of Teaching (Secondary) student applying for the STARS program. Does it matter the year level of placement or my Specialist Teaching Area?,0.27438032627105713
-What if I have already organised my placement/s? Can I still participate in the program?,0.23389650881290436
-How do I organise a placement in a STARS-approved school setting?,0.23463532328605652
-What schools can I do my placement in as part of the STARS program?,0.30282604694366455
-How many practicums will I need to complete during the STARS program?,0.22419825196266174
-How will the STARS program fit in with my current units of study?,0.2822791635990143
-How many pre-service teachers can partake in the STARS program for 2022–2023 year?,0.21601086854934692
-When does the STARS program commence?,0.1786174476146698
-What if I want to continue studying after 1 December 2020?,0.300112783908844
-Can I enrol in a Professional Certificate?,0.25438863039016724
-What is a Professional Certificate?,0.23043878376483917
-What if I only want to complete two units?,0.09183425456285477
-Can I obtain help to defer payment?,-0.03402796387672424
-How do I ensure I’m enrolled with a discounted fee?,0.11889104545116425
-Why are these courses discounted?,0.31413060426712036
-What is the entry criteria?,0.3273952007293701
-What units will I study?,0.3228495717048645
-Is the whole course discounted?,0.29701900482177734
-Will you be offering courses as part of the government’s higher education relief package?,0.3300841450691223
-Will I receive the same qualification as an on-campus student?,0.3001088798046112
-Will I receive credit for my previous studies?,0.25797605514526367
-Will I need to be screened to work with children?,0.0475335419178009
-Will I need to attend placements to complete the Diploma of Nursing?,0.19077655673027039
-Will I have to sit exams in the Diploma of Nursing?,0.21830567717552185
-Will I ever need to go to a campus?,0.1946718990802765
-Will I be studying alone?,0.19933584332466125
-Will I be charged interest on my HECS-HELP loan?,0.05283355712890625
-Why is the Diploma of Nursing changing?,0.2566220760345459
-Why is Swinburne Online a good study option during isolation?,0.14973130822181702
-Who can I contact for support during my studies?,0.3089320957660675
-Who can help me put together a study plan for my course?,0.2900643050670624
-Who can help me if I am having technological difficulties?,0.03007727488875389
-Which units should I start with?,0.12614819407463074
-Which units can I take as electives?,0.2693766951560974
-Where can I study online from?,0.2983326017856598
-Where can I go for career advice?,0.2590324878692627
-Where can I get important information about the VET Student Loan Program?,0.21342389285564423
-Where can I get English language support?,0.13106903433799744
-Where can I get assessment support?,0.21795779466629028
-Where can I find out more about VET Student Loans?,0.16979561746120453
-Where are Swinburne Online’s exam centres located?,0.24257594347000122
-When will Swinburne Online be releasing the new Diploma of Nursing?,0.28497689962387085
-When is the cut-off date for enrolment?,0.26875489950180054
-What’s changing in the Diploma of Nursing?,0.2600264549255371
-What sort of career prospects do I have with an online qualification?,0.2721967399120331
-What resources are available to alumni once they have graduated?,0.26471590995788574
-What level of English language proficiency do I need to study an undergraduate degree at Swinburne Online?,0.21012671291828156
-What level of English language proficiency do I need to study a Masters at Swinburne Online?,0.2589302957057953
-What kind of support do you offer to your online students?,0.17578229308128357
-What is VET?,0.06950461864471436
-What is Undergraduate Study?,0.4272270202636719
-What is the Tableau Desktop Certified Specialist certification?,0.21498426795005798
-What is the Student Amenities Help fee for and why do I have to pay it?,0.22675059735774994
-What is the relationship between Swinburne University of Technology and Swinburne Online?,0.23310035467147827
-What is the difference between a degree and a diploma?,0.23763534426689148
-What is TAFE?,0.11007609218358994
-What is Postgraduate Study?,0.4534981846809387
-What is online education?,0.24407140910625458
-What is Higher Education?,0.4296410083770752
-What is HECS-HELP?,0.14545762538909912
-What is Distance Education?,0.32779932022094727
-What is an Honours Degree?,0.34819328784942627
-What is an e-Learning Advisor and how can I contact them?,0.25942254066467285
-What is a virtual classroom?,0.1777936816215515
-What is an e-Learning Advisor and how can I contact them?,0.25942254066467285
-What is a specialisation?,0.20538707077503204
-What is a pre-requisite?,0.21248723566532135
-What is a PhD?,0.25805744528770447
-What is a Masters Degree?,0.4484747648239136
-What is a major unit?,0.211415097117424
-What is a Graduate Diploma?,0.34805405139923096
-What is a Graduate Certificate?,0.39170560240745544
-What is a Grade Point Average (GPA)?,0.17802366614341736
-What is a good option for upskilling during this time?,0.09595122933387756
-What is a Double Degree?,0.2011423259973526
-What is a Diploma?,0.3086143732070923
-What is a Commonwealth Supported Place?,0.14980846643447876
-What is a Certificate?,0.19342441856861115
-What is a Bachelor Degree?,0.37497788667678833
-What happens if I don’t pay my fees on time?,0.006861411966383457
-What devices will I need to complete my qualification?,0.24046817421913147
-"What are the main differences between online, on-campus and distance education?",0.19386519491672516
-What are the entry requirements for the Diploma of Nursing?,0.27939707040786743
-What are the entry requirements for TAFE Business courses?,0.43757620453834534
-What are the benefits of acquiring a Tableau certification?,0.16316960752010345
-What are placements?,0.2130069136619568
-What are exemptions?,0.09970813244581223
-What are electives and why do I need to study them?,0.19873003661632538
-What are core units?,0.19374364614486694
-Should I start studying now?,0.237573504447937
-Is there fee or financial assistance for Postgraduate Degrees?,0.33875972032546997
-Is there fee or financial assistance for international students?,0.26337218284606934
-Is there a graduation ceremony?,0.23554684221744537
-Is now a good time to look at a career change?,0.20093315839767456
-Is anyone eligible for a VSL?,0.142423614859581
-Is an online qualification a real qualification?,0.23059462010860443
-"If I have just completed Year 12, can I apply to enrol in your March intake (Teaching Period 1)?",0.2872936725616455
-If I have a VSL can I withdraw from my course?,0.22882413864135742
-"I’m studying a TAFE Business course, will I have to sit exams?",0.2894630432128906
-"I’m studying a degree, will I have to sit exams?",0.20158016681671143
-"I’m interested in becoming a teacher. How will teaching placements work, given that your degrees are online?",0.14002376794815063
-I'm not sure what to study. Who can help me?,0.2441430687904358
-I'm not sure if I meet the entry requirements but I want to study. What should I do?,0.3163726031780243
-"I currently work at an early childhood service, primary or secondary school, can I do my teaching placement at my workplace?",0.15240126848220825
-How will a credit for previous studies appear on my transcript?,0.1900440752506256
-How much will my course cost?,0.329213947057724
-How many units can I undertake per teaching period?,0.2886408269405365
-How many placements do I have to do?,0.20494163036346436
-How many hours of study per week are recommended per unit?,0.30295711755752563
-How many alumni are there?,0.35174113512039185
-How long will my application take to be assessed?,0.16678525507450104
-How long will it take to earn my degree?,0.31162238121032715
-How long has Swinburne been around for?,0.07604825496673584
-How does your model of online study work for the Diploma of Nursing?,0.2587485909461975
-How does your model of online study work for TAFE?,0.2318158894777298
-How does your model of online study work for higher education if there are no lectures?,0.26000168919563293
-How does Swinburne University of Technology rate against other universities?,0.3110429048538208
-How does online study work?,0.22207041084766388
-How do I stay on track with my study?,0.1437893509864807
-How do I repay my HELP loan?,0.06920874118804932
-How do I apply to enrol in a degree or a diploma?,0.3035704791545868
-How do exams work?,0.2557809054851532
-How do assessments work?,0.1826876699924469
-How can I get in touch with other students?,0.2648283839225769
-How are my placements arranged?,0.1704193651676178
-Has Swinburne Online been affected by COVID-19?,-0.040775127708911896
-Does the Graduate Certification in Professional Data Analytics prepare me for the Tableau Desktop Certified Specialist certification exam?,0.20233315229415894
-"Do you offer online support, or will I need to figure it all out myself?",-0.025466710329055786
-Do you offer HECS-HELP and FEE-HELP?,0.149536594748497
-Do you have postgraduate programs?,0.41675564646720886
-Do you have a head office somewhere if I want to meet someone face-to-face about my course?,0.28029268980026245
-Do you accept international students?,0.2359059751033783
-Do I need to purchase any learning materials for the Diploma of Nursing?,0.16760554909706116
-Do I need to be logged on to study at specific times?,0.19176267087459564
-Do I need fancy software?,0.0817713588476181
-Do I have to purchase learning materials?,0.1622542440891266
-Do I have to pay for my studies upfront?,0.2530484199523926
-Can I study abroad?,0.2793582081794739
-Can I study a mixture of on-campus and online units?,0.2762371897697449
-Can I do my education placement outside of Australia?,0.2737851142883301
-Can I cover the cost of my Introductory Skill Set Course using VET Student Loan?,0.1707686483860016
-Are there dates I need to think about when applying for a VSL?,0.16592997312545776
-Are the education degrees nationally recognised?,0.3065202236175537
-Are the courses the same as the on-campus courses?,0.30439049005508423
-Are Postgraduate students eligible for Commonwealth Supported Places (CSP)?,0.25111711025238037
-Are placements available part time for education students?,0.29143229126930237
-Are exams only held at the end of each teaching period?,0.22467057406902313
-Am I eligible for a student concession card when studying online?,0.2412836253643036
-Am I eligible for a Commonwealth Supported Place and a HELP loan?,0.12021627277135849
-Am I able to study at Swinburne Online if I don't live in Victoria?,0.261529803276062
-=======
-What are the top 5 good customer service skills?,-0.05255304276943207
-How to demonstrate customer service skills?,-0.07110472023487091
-How to describe customer service skills?,-0.07335220277309418
-What are customer service skills?,-0.06935387849807739
-How can I transition out of a customer service job?,-0.03164184093475342
-What are transferable skills in customer service?,-0.04265861585736275
-What can you do after working in customer service?,-0.027918731793761253
-How do I pivot into business from customer service?,-0.052500322461128235
-What should I do after customer service?,-0.05627128481864929
-What is the career path for customer service agents?,0.09159837663173676
-What is the most likely career for a customer support professional?,0.03623441606760025
-What is the most common mistake when choosing a career?,0.029760554432868958
-What to do if you are confused about your career?,0.010280042886734009
-Why am I struggling to choose a career?,0.02530297078192234
-Is it normal to not know what career you want?,0.0784931480884552
-How to find your dream job?,0.1956748366355896
-How do you figure out what you want to do as a career?,0.09232845902442932
-What is the difference between a financial planner and a financial advisor?,0.06822856515645981
-What qualifications do financial advisors need?,0.14033830165863037
-How long does an MBA take in Australia?,0.2935534119606018
-Who should do an MBA?,0.18189120292663574
-Do you need a degree to do an MBA?,0.25411829352378845
-Why study an MBA?,0.20658572018146515
-What does an MBA teach?,0.22754120826721191
-How long does it take to finish a part-time MBA?,0.19272318482398987
-What is a weekend MBA?,0.2091677486896515
-How long is a full-time MBA?,0.21658393740653992
-How many hours a week is an MBA?,0.223212331533432
-Can you study an MBA part-time?,0.1969611644744873
-Can you complete an MBA while working full time?,0.15407481789588928
-Is it easy to get a scholarship for Masters in Australia?,0.3349947929382324
-How do I get full funding for a Masters in Australia?,0.24021440744400024
-Do I have to pay for Masters in Australia?,0.23752503097057343
-How do I pay for postgraduate study in Australia?,0.2634347379207611
-How many degrees can you put on HECS?,0.1515081822872162
-Is Higher Education Loan Program (HELP) the same as HECS?,0.21593746542930603
-Can you get a student loan for a masters in Australia?,0.30545857548713684
-Is postgraduate study covered by HECS?,0.23165370523929596
-How do you become a CEO of a company?,0.12052416801452637
-How do you become a CEO in Australia?,0.1999688744544983
-What skills do you need to become a CEO?,0.029901793226599693
-What qualifications do most CEOs have?,0.09301447868347168
-What qualifies you as a CEO?,0.0614444725215435
-What is the best degree for a financial advisor?,0.2433614283800125
-What is the job of a financial advisor?,0.17187082767486572
-What are the duties of a financial advisor?,0.12053608894348145
-What kind of person can be a financial advisor?,0.10635512322187424
-Is it stressful to be a financial advisor?,0.07912394404411316
-Is it hard being a financial advisor?,0.11591652035713196
-How long does it take to make it as a financial advisor?,0.1603601574897766
-How do I start being a financial advisor?,0.11483342945575714
-What qualifications do I need to be a financial advisor in Australia?,0.15990370512008667
-What is the main difference between a financial planner and a financial advisor in Australia?,0.1370438039302826
-What is the main difference between a financial planner and a financial advisor?,0.07789722084999084
-"Which is better, a financial planner or advisor?",0.07480242848396301
-What are the three major skills needed to run a business?,-0.009502025321125984
-What should I study for small business?,0.06322349607944489
-What degree is best for starting a business?,0.19107221066951752
-What degree is best for starting a business?,0.19107221066951752
-What is the most versatile business degree?,0.2503960132598877
-Which business degree is best in Australia?,0.3343200087547302
-What is the best type of business to major in?,0.14399774372577667
-What are the four advantages of studying business environment?,0.14523962140083313
-What are the benefits of doing business?,0.04604337736964226
-How can studying business be beneficial for your future?,0.15762418508529663
-Why study business courses in Australia?,0.2819134294986725
-Do people with business degrees get jobs?,0.19700729846954346
-What career outcomes can you get with a business degree?,0.18148887157440186
-What job can you get with a business degree in Australia?,0.24311566352844238
-What pays the most with a business degree?,0.22873559594154358
-What will I learn in a business management degree?,0.1689433604478836
-What is the definition of a business management degree?,0.2152092158794403
-What are examples of business management?,0.09426389634609222
-What is the meaning of business management?,0.1284877359867096
-What are the main topics in business administration?,0.05264122039079666
-What is the meaning of a degree in business administration?,0.2122647762298584
-What is an example of business administration?,0.07660884410142899
-What does a Business Administrator do?,0.048276402056217194
-What is the difference between management and administration?,0.03276517242193222
-What is the difference between business administration and business management?,0.04438753426074982
-What support can I expect?,-0.031489837914705276
-Is an MBA too advanced for someone who has never studied?,0.19697152078151703
-"As I am studying online, can I pursue full-time opportunities throughout my studies?",0.14221607148647308
-Do these degrees provide any networking opportunities?,0.3128178119659424
-How will Swinburne prepare me for future job opportunities?,0.12338712066411972
-"With an MBA, does the institution matter?",0.27388685941696167
-As a business leader/owner what value can an MBA add that I do not gain in my current vocation?,0.05770105868577957
-What job opportunities require an MBA?,0.2200661301612854
-What is the likelihood of employment with an MBA?,0.19801969826221466
-Is there a pay increase between undergraduate and MBA students?,0.18355634808540344
-Why should I choose Swinburne over different providers?,0.020632779225707054
-What quantitative value can I hope for in taking on an MBA?,0.14286649227142334
-Is STARS paid?,-0.0440337136387825
-Are STARS placements extra placements or part of my course?,0.15374450385570526
-Can I complete my two STARS placements in the school that I am doing Permission To Teach (PTT) work? The school fits the low-socioeconomic criteria and have said they would be happy for me do my STARS placements there.,0.18662868440151215
-"When Swinburne matches the student to the placement school, what is the criteria for travel expectations, will Swinburne match me to somewhere within a reasonable distance from my home or could it be anywhere in regional/rural Victoria?",0.314596563577652
-When do the STARS Canvas modules open? Would I be able to have access to them at the start of the teaching period as I'd like to work on the STARS module before placement?,0.02956700138747692
-What will I receive at completion of this program?,0.14397065341472626
-Will there be any financial support for travel or accommodation to undertake a placement in regional or remote Victoria?,0.21987119317054749
-"I have secured a placement in a school setting that is not a regional, remote or low socioeconomic school. If I am successful in my application will you help me change to a STARS-approved school setting?",0.15104055404663086
-I am a Master of Teaching (Secondary) student applying for the STARS program. Does it matter the year level of placement or my Specialist Teaching Area?,0.14191029965877533
-What if I have already organised my placement/s? Can I still participate in the program?,0.21801327168941498
-How do I organise a placement in a STARS-approved school setting?,0.21585921943187714
-What schools can I do my placement in as part of the STARS program?,0.318678617477417
-How many practicums will I need to complete during the STARS program?,0.06502342224121094
-How will the STARS program fit in with my current units of study?,0.11389750242233276
-How many pre-service teachers can partake in the STARS program for 2022–2023 year?,0.15712250769138336
-When does the STARS program commence?,0.09388728439807892
-What if I want to continue studying after 1 December 2020?,0.19881688058376312
-Can I enrol in a Professional Certificate?,0.16378512978553772
-What is a Professional Certificate?,0.11905106902122498
-What if I only want to complete two units?,-0.04950521141290665
-Can I obtain help to defer payment?,-0.04229128360748291
-How do I ensure I’m enrolled with a discounted fee?,0.07917355000972748
-Why are these courses discounted?,0.2322859764099121
-What is the entry criteria?,0.18906280398368835
-What units will I study?,0.16113349795341492
-Is the whole course discounted?,0.26897257566452026
-Will you be offering courses as part of the government’s higher education relief package?,0.22067248821258545
-Will I receive the same qualification as an on-campus student?,0.24718427658081055
-Will I receive credit for my previous studies?,0.2203635275363922
-Will I need to be screened to work with children?,-0.020292285829782486
-Will I need to attend placements to complete the Diploma of Nursing?,0.33343398571014404
-Will I have to sit exams in the Diploma of Nursing?,0.26077455282211304
-Will I ever need to go to a campus?,0.32942086458206177
-Will I be studying alone?,0.21999239921569824
-Will I be charged interest on my HECS-HELP loan?,0.04467112943530083
-Why is the Diploma of Nursing changing?,0.30216169357299805
-Why is Swinburne Online a good study option during isolation?,0.1552141308784485
-Who can I contact for support during my studies?,0.2644613981246948
-Who can help me put together a study plan for my course?,0.17388980090618134
-Who can help me if I am having technological difficulties?,-0.06163972616195679
-Which units should I start with?,-0.03556258603930473
-Which units can I take as electives?,0.11788158118724823
-Where can I study online from?,0.31109219789505005
-Where can I go for career advice?,0.10607695579528809
-Where can I get important information about the VET Student Loan Program?,0.27047672867774963
-Where can I get English language support?,0.11867502331733704
-Where can I get assessment support?,0.14794039726257324
-Where can I find out more about VET Student Loans?,0.2005733847618103
-Where are Swinburne Online’s exam centres located?,0.36054208874702454
-When will Swinburne Online be releasing the new Diploma of Nursing?,0.40535300970077515
-When is the cut-off date for enrolment?,0.20611020922660828
-What’s changing in the Diploma of Nursing?,0.3147605061531067
-What sort of career prospects do I have with an online qualification?,0.08961323648691177
-What resources are available to alumni once they have graduated?,0.2796364426612854
-What level of English language proficiency do I need to study an undergraduate degree at Swinburne Online?,0.24042834341526031
-What level of English language proficiency do I need to study a Masters at Swinburne Online?,0.2026999443769455
-What kind of support do you offer to your online students?,0.09891800582408905
-What is VET?,0.11513053625822067
-What is Undergraduate Study?,0.3210316300392151
-What is the Tableau Desktop Certified Specialist certification?,0.1232302337884903
-What is the Student Amenities Help fee for and why do I have to pay it?,0.23349261283874512
-What is the relationship between Swinburne University of Technology and Swinburne Online?,0.3355482816696167
-What is the difference between a degree and a diploma?,0.18400974571704865
-What is TAFE?,0.16511201858520508
-What is Postgraduate Study?,0.26691728830337524
-What is online education?,0.15381209552288055
-What is Higher Education?,0.308759868144989
-What is HECS-HELP?,0.07949385792016983
-What is Distance Education?,0.260719358921051
-What is an Honours Degree?,0.31758490204811096
-What is an e-Learning Advisor and how can I contact them?,0.18231263756752014
-What is a virtual classroom?,0.13308382034301758
-What is an e-Learning Advisor and how can I contact them?,0.18231263756752014
-What is a specialisation?,0.17870092391967773
-What is a pre-requisite?,0.12400900572538376
-What is a PhD?,0.32273203134536743
-What is a Masters Degree?,0.27522629499435425
-What is a major unit?,0.0779210776090622
-What is a Graduate Diploma?,0.26262366771698
-What is a Graduate Certificate?,0.25007402896881104
-What is a Grade Point Average (GPA)?,0.21952109038829803
-What is a good option for upskilling during this time?,-0.07352708280086517
-What is a Double Degree?,0.22652047872543335
-What is a Diploma?,0.23920461535453796
-What is a Commonwealth Supported Place?,0.17520105838775635
-What is a Certificate?,0.11172746866941452
-What is a Bachelor Degree?,0.32032936811447144
-What happens if I don’t pay my fees on time?,-0.005278562195599079
-What devices will I need to complete my qualification?,-0.031027745455503464
-"What are the main differences between online, on-campus and distance education?",0.19012905657291412
-What are the entry requirements for the Diploma of Nursing?,0.31832176446914673
-What are the entry requirements for TAFE Business courses?,0.26268109679222107
-What are the benefits of acquiring a Tableau certification?,0.10649920254945755
-What are placements?,0.19674545526504517
-What are exemptions?,-0.020289696753025055
-What are electives and why do I need to study them?,0.15169188380241394
-What are core units?,-0.011632663197815418
-Should I start studying now?,0.1497761756181717
-Is there fee or financial assistance for Postgraduate Degrees?,0.31380969285964966
-Is there fee or financial assistance for international students?,0.26156461238861084
-Is there a graduation ceremony?,0.32166892290115356
-Is now a good time to look at a career change?,0.0538671538233757
-Is anyone eligible for a VSL?,0.06948085129261017
-Is an online qualification a real qualification?,0.10133853554725647
-"If I have just completed Year 12, can I apply to enrol in your March intake (Teaching Period 1)?",0.17758169770240784
-If I have a VSL can I withdraw from my course?,0.13481676578521729
-"I’m studying a TAFE Business course, will I have to sit exams?",0.13997924327850342
-"I’m studying a degree, will I have to sit exams?",0.15377262234687805
-"I’m interested in becoming a teacher. How will teaching placements work, given that your degrees are online?",0.1823771595954895
-I'm not sure what to study. Who can help me?,0.15032844245433807
-I'm not sure if I meet the entry requirements but I want to study. What should I do?,0.25356101989746094
-"I currently work at an early childhood service, primary or secondary school, can I do my teaching placement at my workplace?",0.0768870934844017
-How will a credit for previous studies appear on my transcript?,0.1794208437204361
-How much will my course cost?,0.24853216111660004
-How many units can I undertake per teaching period?,0.1287253350019455
-How many placements do I have to do?,0.18194285035133362
-How many hours of study per week are recommended per unit?,0.19781805574893951
-How many alumni are there?,0.4366759657859802
-How long will my application take to be assessed?,0.09162948280572891
-How long will it take to earn my degree?,0.26874983310699463
-How long has Swinburne been around for?,0.15976090729236603
-How does your model of online study work for the Diploma of Nursing?,0.270277202129364
-How does your model of online study work for TAFE?,0.18107381463050842
-How does your model of online study work for higher education if there are no lectures?,0.20064055919647217
-How does Swinburne University of Technology rate against other universities?,0.3837171196937561
-How does online study work?,0.1495717316865921
-How do I stay on track with my study?,0.11195874959230423
-How do I repay my HELP loan?,0.09624768793582916
-How do I apply to enrol in a degree or a diploma?,0.283200740814209
-How do exams work?,0.09900643676519394
-How do assessments work?,0.049892835319042206
-How can I get in touch with other students?,0.27662086486816406
-How are my placements arranged?,0.14640814065933228
-Has Swinburne Online been affected by COVID-19?,0.04629749059677124
-Does the Graduate Certification in Professional Data Analytics prepare me for the Tableau Desktop Certified Specialist certification exam?,0.11284176260232925
-"Do you offer online support, or will I need to figure it all out myself?",-0.020375771448016167
-Do you offer HECS-HELP and FEE-HELP?,0.08786703646183014
-Do you have postgraduate programs?,0.3098302483558655
-Do you have a head office somewhere if I want to meet someone face-to-face about my course?,0.35844624042510986
-Do you accept international students?,0.23702184855937958
-Do I need to purchase any learning materials for the Diploma of Nursing?,0.21763566136360168
-Do I need to be logged on to study at specific times?,0.153333842754364
-Do I need fancy software?,-0.026855602860450745
-Do I have to purchase learning materials?,0.06924410909414291
-Do I have to pay for my studies upfront?,0.21572646498680115
-Can I study abroad?,0.24225667119026184
-Can I study a mixture of on-campus and online units?,0.17880412936210632
-Can I do my education placement outside of Australia?,0.3082244396209717
-Can I cover the cost of my Introductory Skill Set Course using VET Student Loan?,0.1403191089630127
-Are there dates I need to think about when applying for a VSL?,0.10011422634124756
-Are the education degrees nationally recognised?,0.36643972992897034
-Are the courses the same as the on-campus courses?,0.31480422616004944
-Are Postgraduate students eligible for Commonwealth Supported Places (CSP)?,0.21403951942920685
-Are placements available part time for education students?,0.25879353284835815
-Are exams only held at the end of each teaching period?,0.17012642323970795
-Am I eligible for a student concession card when studying online?,0.13372394442558289
-Am I eligible for a Commonwealth Supported Place and a HELP loan?,0.1049460768699646
-Am I able to study at Swinburne Online if I don't live in Victoria?,0.38733962178230286
->>>>>>> main
+What are the top 5 good customer service skills?,0.014366455376148224
+How to demonstrate customer service skills?,-0.025346554815769196
+How to describe customer service skills?,0.018408875912427902
+What are customer service skills?,0.02884131669998169
+How can I transition out of a customer service job?,0.0022573061287403107
+What are transferable skills in customer service?,-0.03002619743347168
+What can you do after working in customer service?,0.09651189297437668
+How do I pivot into business from customer service?,-0.0453377291560173
+What should I do after customer service?,0.08414202183485031
+What is the career path for customer service agents?,-0.01399613544344902
+What is the most likely career for a customer support professional?,0.06257114559412003
+What is the most common mistake when choosing a career?,0.05090882256627083
+What to do if you are confused about your career?,0.03891914337873459
+Why am I struggling to choose a career?,0.09561474621295929
+Is it normal to not know what career you want?,0.023208193480968475
+How to find your dream job?,0.03957328945398331
+How do you figure out what you want to do as a career?,0.020331591367721558
+What is the difference between a financial planner and a financial advisor?,0.015761151909828186
+What qualifications do financial advisors need?,-0.0783001184463501
+How long does an MBA take in Australia?,0.012448776513338089
+Who should do an MBA?,-0.010519953444600105
+Do you need a degree to do an MBA?,-0.027658458799123764
+Why study an MBA?,-0.01570618897676468
+What does an MBA teach?,0.011308863759040833
+How long does it take to finish a part-time MBA?,-0.022517969831824303
+What is a weekend MBA?,0.09538981318473816
+How long is a full-time MBA?,-0.008442386984825134
+How many hours a week is an MBA?,0.03732457756996155
+Can you study an MBA part-time?,-0.03608600050210953
+Can you complete an MBA while working full time?,-0.04882347583770752
+Is it easy to get a scholarship for Masters in Australia?,-0.04790259897708893
+How do I get full funding for a Masters in Australia?,-0.054347746074199677
+Do I have to pay for Masters in Australia?,-0.03942684084177017
+How do I pay for postgraduate study in Australia?,-0.03018075041472912
+How many degrees can you put on HECS?,0.10158146917819977
+Is Higher Education Loan Program (HELP) the same as HECS?,-0.11293433606624603
+Can you get a student loan for a masters in Australia?,-0.04109252244234085
+Is postgraduate study covered by HECS?,-0.02138466201722622
+How do you become a CEO of a company?,-0.03790822625160217
+How do you become a CEO in Australia?,-0.04681537672877312
+What skills do you need to become a CEO?,-0.07172581553459167
+What qualifications do most CEOs have?,-0.06650379300117493
+What qualifies you as a CEO?,-0.021350476890802383
+What is the best degree for a financial advisor?,-0.004956897348165512
+What is the job of a financial advisor?,0.038227103650569916
+What are the duties of a financial advisor?,0.0038894154131412506
+What kind of person can be a financial advisor?,0.02619294449687004
+Is it stressful to be a financial advisor?,0.05899577587842941
+Is it hard being a financial advisor?,0.016012683510780334
+How long does it take to make it as a financial advisor?,0.010432243347167969
+How do I start being a financial advisor?,-0.026559963822364807
+What qualifications do I need to be a financial advisor in Australia?,-0.036530882120132446
+What is the main difference between a financial planner and a financial advisor in Australia?,0.01916622556746006
+What is the main difference between a financial planner and a financial advisor?,0.013448424637317657
+"Which is better, a financial planner or advisor?",0.02912251092493534
+What are the three major skills needed to run a business?,-0.05757658928632736
+What should I study for small business?,-0.035689473152160645
+What degree is best for starting a business?,-0.02249123714864254
+What degree is best for starting a business?,-0.02249123714864254
+What is the most versatile business degree?,-0.02135835401713848
+Which business degree is best in Australia?,-0.014853880740702152
+What is the best type of business to major in?,0.019176900386810303
+What are the four advantages of studying business environment?,0.02233303338289261
+What are the benefits of doing business?,-0.012104379013180733
+How can studying business be beneficial for your future?,-0.06610198318958282
+Why study business courses in Australia?,-0.06324989348649979
+Do people with business degrees get jobs?,-0.02624509483575821
+What career outcomes can you get with a business degree?,-0.018108107149600983
+What job can you get with a business degree in Australia?,0.016687102615833282
+What pays the most with a business degree?,-0.007304800674319267
+What will I learn in a business management degree?,-0.001752031035721302
+What is the definition of a business management degree?,0.0051369271241128445
+What are examples of business management?,-0.0030246227979660034
+What is the meaning of business management?,0.03303207457065582
+What are the main topics in business administration?,-0.02759532257914543
+What is the meaning of a degree in business administration?,0.019892428070306778
+What is an example of business administration?,-0.016008950769901276
+What does a Business Administrator do?,0.013934100046753883
+What is the difference between management and administration?,0.05219856649637222
+What is the difference between business administration and business management?,0.001783931627869606
+What support can I expect?,0.07753776013851166
+Is an MBA too advanced for someone who has never studied?,-0.06027138978242874
+"As I am studying online, can I pursue full-time opportunities throughout my studies?",-0.11013685166835785
+Do these degrees provide any networking opportunities?,-0.004620838910341263
+How will Swinburne prepare me for future job opportunities?,0.033418428152799606
+"With an MBA, does the institution matter?",-0.053638339042663574
+As a business leader/owner what value can an MBA add that I do not gain in my current vocation?,-0.03339811787009239
+What job opportunities require an MBA?,-0.017248574644327164
+What is the likelihood of employment with an MBA?,0.011823656037449837
+Is there a pay increase between undergraduate and MBA students?,-0.08113402128219604
+Why should I choose Swinburne over different providers?,-0.04515591263771057
+What quantitative value can I hope for in taking on an MBA?,-0.006641943007707596
+Is STARS paid?,0.042835481464862823
+Are STARS placements extra placements or part of my course?,-0.0063235145062208176
+Can I complete my two STARS placements in the school that I am doing Permission To Teach (PTT) work? The school fits the low-socioeconomic criteria and have said they would be happy for me do my STARS placements there.,-0.10407819598913193
+"When Swinburne matches the student to the placement school, what is the criteria for travel expectations, will Swinburne match me to somewhere within a reasonable distance from my home or could it be anywhere in regional/rural Victoria?",0.03698207437992096
+When do the STARS Canvas modules open? Would I be able to have access to them at the start of the teaching period as I'd like to work on the STARS module before placement?,0.010925352573394775
+What will I receive at completion of this program?,0.035581257194280624
+Will there be any financial support for travel or accommodation to undertake a placement in regional or remote Victoria?,-0.007018394768238068
+"I have secured a placement in a school setting that is not a regional, remote or low socioeconomic school. If I am successful in my application will you help me change to a STARS-approved school setting?",-0.03203464671969414
+I am a Master of Teaching (Secondary) student applying for the STARS program. Does it matter the year level of placement or my Specialist Teaching Area?,0.03220077231526375
+What if I have already organised my placement/s? Can I still participate in the program?,-0.053968872874975204
+How do I organise a placement in a STARS-approved school setting?,-0.03641826659440994
+What schools can I do my placement in as part of the STARS program?,-0.028636058792471886
+How many practicums will I need to complete during the STARS program?,-0.007558898068964481
+How will the STARS program fit in with my current units of study?,0.010665887966752052
+How many pre-service teachers can partake in the STARS program for 2022–2023 year?,-0.005230294540524483
+When does the STARS program commence?,0.09532152861356735
+What if I want to continue studying after 1 December 2020?,0.09017838537693024
+Can I enrol in a Professional Certificate?,-0.04269777610898018
+What is a Professional Certificate?,0.014117492362856865
+What if I only want to complete two units?,-0.0032909102737903595
+Can I obtain help to defer payment?,-0.02224946767091751
+How do I ensure I’m enrolled with a discounted fee?,-0.06615447252988815
+Why are these courses discounted?,-0.039263851940631866
+What is the entry criteria?,0.03584655374288559
+What units will I study?,-0.011997047811746597
+Is the whole course discounted?,0.00016664713621139526
+Will you be offering courses as part of the government’s higher education relief package?,-0.09458604454994202
+Will I receive the same qualification as an on-campus student?,-0.06045517697930336
+Will I receive credit for my previous studies?,-0.08233055472373962
+Will I need to be screened to work with children?,-0.008879590779542923
+Will I need to attend placements to complete the Diploma of Nursing?,-0.11500197649002075
+Will I have to sit exams in the Diploma of Nursing?,-0.1011686623096466
+Will I ever need to go to a campus?,-0.04463392123579979
+Will I be studying alone?,0.05428507924079895
+Will I be charged interest on my HECS-HELP loan?,-0.03751438483595848
+Why is the Diploma of Nursing changing?,-0.0643719732761383
+Why is Swinburne Online a good study option during isolation?,-0.08523271977901459
+Who can I contact for support during my studies?,-0.016562309116125107
+Who can help me put together a study plan for my course?,-0.0495438389480114
+Who can help me if I am having technological difficulties?,0.14466892182826996
+Which units should I start with?,0.04620248079299927
+Which units can I take as electives?,-0.11671397089958191
+Where can I study online from?,-0.02462328039109707
+Where can I go for career advice?,0.026935644447803497
+Where can I get important information about the VET Student Loan Program?,-0.1203303188085556
+Where can I get English language support?,0.045711908489465714
+Where can I get assessment support?,0.026224156841635704
+Where can I find out more about VET Student Loans?,-0.11844056844711304
+Where are Swinburne Online’s exam centres located?,-0.07076514512300491
+When will Swinburne Online be releasing the new Diploma of Nursing?,-0.06755129992961884
+When is the cut-off date for enrolment?,0.05970970541238785
+What’s changing in the Diploma of Nursing?,-0.0454908087849617
+What sort of career prospects do I have with an online qualification?,0.024366481229662895
+What resources are available to alumni once they have graduated?,-0.07485979795455933
+What level of English language proficiency do I need to study an undergraduate degree at Swinburne Online?,-0.048154495656490326
+What level of English language proficiency do I need to study a Masters at Swinburne Online?,-0.03845278173685074
+What kind of support do you offer to your online students?,-0.022351862862706184
+What is VET?,0.014090588316321373
+What is Undergraduate Study?,-0.032677046954631805
+What is the Tableau Desktop Certified Specialist certification?,-0.03889789059758186
+What is the Student Amenities Help fee for and why do I have to pay it?,-0.06386907398700714
+What is the relationship between Swinburne University of Technology and Swinburne Online?,-0.06586504727602005
+What is the difference between a degree and a diploma?,0.03182722628116608
+What is TAFE?,-0.013165847398340702
+What is Postgraduate Study?,0.011236177757382393
+What is online education?,-0.041671980172395706
+What is Higher Education?,-0.06099659204483032
+What is HECS-HELP?,0.00399790657684207
+What is Distance Education?,0.031219877302646637
+What is an Honours Degree?,0.030999943614006042
+What is an e-Learning Advisor and how can I contact them?,0.020377948880195618
+What is a virtual classroom?,-0.04920334741473198
+What is an e-Learning Advisor and how can I contact them?,0.020377948880195618
+What is a specialisation?,-0.025235962122678757
+What is a pre-requisite?,-0.03756048530340195
+What is a PhD?,0.07756447046995163
+What is a Masters Degree?,0.03660609573125839
+What is a major unit?,0.03872913867235184
+What is a Graduate Diploma?,0.02001771330833435
+What is a Graduate Certificate?,-0.00835074670612812
+What is a Grade Point Average (GPA)?,0.03096652217209339
+What is a good option for upskilling during this time?,0.02343251183629036
+What is a Double Degree?,0.08074204623699188
+What is a Diploma?,0.036347560584545135
+What is a Commonwealth Supported Place?,0.00758577324450016
+What is a Certificate?,-0.0007169060409069061
+What is a Bachelor Degree?,0.036766257137060165
+What happens if I don’t pay my fees on time?,0.015389617532491684
+What devices will I need to complete my qualification?,-0.004401439800858498
+"What are the main differences between online, on-campus and distance education?",-0.04976946860551834
+What are the entry requirements for the Diploma of Nursing?,-0.09863303601741791
+What are the entry requirements for TAFE Business courses?,-0.12186117470264435
+What are the benefits of acquiring a Tableau certification?,-0.12267006933689117
+What are placements?,-0.001532427966594696
+What are exemptions?,0.011665619909763336
+What are electives and why do I need to study them?,-0.12011352926492691
+What are core units?,-0.026297153905034065
+Should I start studying now?,0.006073448807001114
+Is there fee or financial assistance for Postgraduate Degrees?,-0.04605300351977348
+Is there fee or financial assistance for international students?,-0.10759708285331726
+Is there a graduation ceremony?,0.019638173282146454
+Is now a good time to look at a career change?,0.004883875139057636
+Is anyone eligible for a VSL?,-0.04646575450897217
+Is an online qualification a real qualification?,-0.0478418804705143
+"If I have just completed Year 12, can I apply to enrol in your March intake (Teaching Period 1)?",-0.04500877112150192
+If I have a VSL can I withdraw from my course?,-0.06397759169340134
+"I’m studying a TAFE Business course, will I have to sit exams?",-0.08764512836933136
+"I’m studying a degree, will I have to sit exams?",-0.01415138877928257
+"I’m interested in becoming a teacher. How will teaching placements work, given that your degrees are online?",-0.06369134038686752
+I'm not sure what to study. Who can help me?,0.021362435072660446
+I'm not sure if I meet the entry requirements but I want to study. What should I do?,-0.06895202398300171
+"I currently work at an early childhood service, primary or secondary school, can I do my teaching placement at my workplace?",-0.06769800186157227
+How will a credit for previous studies appear on my transcript?,-0.0982133001089096
+How much will my course cost?,0.02802945300936699
+How many units can I undertake per teaching period?,-0.0518137663602829
+How many placements do I have to do?,-0.025563400238752365
+How many hours of study per week are recommended per unit?,0.008042270317673683
+How many alumni are there?,-0.014898331835865974
+How long will my application take to be assessed?,0.04120967164635658
+How long will it take to earn my degree?,0.056611888110637665
+How long has Swinburne been around for?,0.01885809935629368
+How does your model of online study work for the Diploma of Nursing?,-0.10190582275390625
+How does your model of online study work for TAFE?,-0.08351375162601471
+How does your model of online study work for higher education if there are no lectures?,-0.1121060848236084
+How does Swinburne University of Technology rate against other universities?,-0.053276848047971725
+How does online study work?,-0.05937756597995758
+How do I stay on track with my study?,-0.037789713591337204
+How do I repay my HELP loan?,0.0180206336081028
+How do I apply to enrol in a degree or a diploma?,-0.008073391392827034
+How do exams work?,0.012545723468065262
+How do assessments work?,-0.013910867273807526
+How can I get in touch with other students?,0.01752985641360283
+How are my placements arranged?,0.02873048186302185
+Has Swinburne Online been affected by COVID-19?,0.031500428915023804
+Does the Graduate Certification in Professional Data Analytics prepare me for the Tableau Desktop Certified Specialist certification exam?,-0.05147985741496086
+"Do you offer online support, or will I need to figure it all out myself?",0.032385263592004776
+Do you offer HECS-HELP and FEE-HELP?,-0.02479351870715618
+Do you have postgraduate programs?,0.009265265427529812
+Do you have a head office somewhere if I want to meet someone face-to-face about my course?,-0.0014139562845230103
+Do you accept international students?,-0.04670007899403572
+Do I need to purchase any learning materials for the Diploma of Nursing?,-0.14997494220733643
+Do I need to be logged on to study at specific times?,-0.035700783133506775
+Do I need fancy software?,0.02155154012143612
+Do I have to purchase learning materials?,-0.09755485504865646
+Do I have to pay for my studies upfront?,-0.10130053758621216
+Can I study abroad?,-0.006102735176682472
+Can I study a mixture of on-campus and online units?,-0.08915700018405914
+Can I do my education placement outside of Australia?,-0.016069546341896057
+Can I cover the cost of my Introductory Skill Set Course using VET Student Loan?,-0.08618490397930145
+Are there dates I need to think about when applying for a VSL?,0.02128506638109684
+Are the education degrees nationally recognised?,-0.06981364637613297
+Are the courses the same as the on-campus courses?,-0.1082751601934433
+Are Postgraduate students eligible for Commonwealth Supported Places (CSP)?,-0.06184650957584381
+Are placements available part time for education students?,-0.08966215699911118
+Are exams only held at the end of each teaching period?,-0.050154611468315125
+Am I eligible for a student concession card when studying online?,-0.09573869407176971
+Am I eligible for a Commonwealth Supported Place and a HELP loan?,0.00013680383563041687
+Am I able to study at Swinburne Online if I don't live in Victoria?,-0.02204228937625885

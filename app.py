@@ -1,33 +1,43 @@
 from flask import Flask, render_template, request
 from webscraping.main import chatbot_function  # Adjust the import path as needed
-import requests
-from bs4 import BeautifulSoup
+
+# import requests
+# from bs4 import BeautifulSoup
+import csv
 
 app = Flask(__name__)
 
-# Load and process FAQ data (move this part from main.py to app.py)
-url = "https://www.swinburneonline.edu.au/faqs/"
-response = requests.get(url)
-faq_data = []
+# # Load and process FAQ data (move this part from main.py to app.py)
+# url = "https://www.swinburneonline.edu.au/faqs/"
+# response = requests.get(url)
+# faq_data = []
+
 # Initialize a list to store the conversation history
 conversation_history = []
 
-if response.status_code == 200:
-    soup = BeautifulSoup(response.text, "html.parser")
+# Load and process FAQ data from the local csv file
+faq_data = []
+with open("faq_data.csv", "r", encoding="utf-8") as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        faq_data.append({"Question": row["Question"], "Answer": row["Answer"]})
 
-    # Find all the FAQ cards
-    faq_cards = soup.find_all("div", class_="card")
+# if response.status_code == 200:
+#     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Collect FAQ questions and answers
-    for card in faq_cards:
-        card_text = card.get_text(separator=" ")
-        parts = card_text.split("A.", 1)
-        if len(parts) == 2:
-            question = parts[0].strip().replace("Q.", "").strip()
-            answer = parts[1].strip()
-            faq_data.append({"Question": question, "Answer": answer})
-else:
-    print("Failed to retrieve the web page. Status code:", response.status_code)
+#     # Find all the FAQ cards
+#     faq_cards = soup.find_all("div", class_="card")
+
+#     # Collect FAQ questions and answers
+#     for card in faq_cards:
+#         card_text = card.get_text(separator=" ")
+#         parts = card_text.split("A.", 1)
+#         if len(parts) == 2:
+#             question = parts[0].strip().replace("Q.", "").strip()
+#             answer = parts[1].strip()
+#             faq_data.append({"Question": question, "Answer": answer})
+# else:
+#     print("Failed to retrieve the web page. Status code:", response.status_code)
 
 
 # Define a route for the homepage

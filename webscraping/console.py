@@ -1,5 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
+# from bs4 import BeautifulSoup
+# import requests
 from sentence_transformers import SentenceTransformer, util
 import csv
 
@@ -7,26 +7,34 @@ import csv
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Retrieve FAQ data from the website
-url = "https://www.swinburneonline.edu.au/faqs/"
-response = requests.get(url)
+# url = "https://www.swinburneonline.edu.au/faqs/"
+# response = requests.get(url)
 
-if response.status_code == 200:
-    soup = BeautifulSoup(response.text, "html.parser")
+# if response.status_code == 200:
+# soup = BeautifulSoup(response.text, "html.parser")
 
-    # Find all the FAQ cards
-    faq_cards = soup.find_all("div", class_="card")
+# Load FAQ data from local CSV file
+faq_data = []
 
-    # Initialize a list to store FAQ data
-    faq_data = []
+with open("faq_data.csv", "r", encoding="utf-8") as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        faq_data.append({"Question": row["Question"], "Answer": row["Answer"]})
 
-    # Collect FAQ questions and answers
-    for card in faq_cards:
-        card_text = card.get_text(separator=" ")
-        parts = card_text.split("A.", 1)
-        if len(parts) == 2:
-            question = parts[0].strip().replace("Q.", "").strip()
-            answer = parts[1].strip()
-            faq_data.append({"Question": question, "Answer": answer})
+    # # Find all the FAQ cards
+    # faq_cards = soup.find_all("div", class_="card")
+
+    # # Initialize a list to store FAQ data
+    # faq_data = []
+
+    # # Collect FAQ questions and answers
+    # for card in faq_cards:
+    #     card_text = card.get_text(separator=" ")
+    #     parts = card_text.split("A.", 1)
+    #     if len(parts) == 2:
+    #         question = parts[0].strip().replace("Q.", "").strip()
+    #         answer = parts[1].strip()
+    #         faq_data.append({"Question": question, "Answer": answer})
 
     while True:
         # Allow the user to input a query
@@ -69,5 +77,5 @@ if response.status_code == 200:
             writer.writeheader()
             writer.writerows(similarity_scores)
 
-else:
-    print("Failed to retrieve the web page. Status code:", response.status_code)
+# else:
+#     print("Failed to retrieve the web page. Status code:", response.status_code)

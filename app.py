@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from webscraping.main import chatbot_function  # Adjust the import path as needed
+from webscraping.labelquestion import process_faq_csv
 
 # import requests
 # from bs4 import BeautifulSoup
@@ -75,12 +76,16 @@ def ask():
         {"User Query": user_question, "Response": response or suggestions}
     )
 
+    # Show more Topics related to FAQ
+    topics = process_faq_csv()
+
     # Render the template with all necessary variables
     return render_template(
         "index.html",
         conversation_history=conversation_history,
         answer=response or "Here are some suggestions for you.",
         suggestions=suggestions,
+        topics=topics,
         user_question=user_question,
     )
 

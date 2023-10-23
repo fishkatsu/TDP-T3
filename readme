@@ -8,6 +8,10 @@ pip3 install torch torchvision torchaudio
 pip3 install sentence-transformers
 pip3 install flask
 
+pip install pandas
+pip install nltk
+pip install scikit-learn
+pip install numpy
 ===============================================================================================
 
 if want to change css, type this in console
